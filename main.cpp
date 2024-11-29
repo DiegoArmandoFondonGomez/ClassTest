@@ -7,3 +7,7 @@ int main () {
   cin>> n;
   return 0;
     }
+
+for (int c = 1; c < n; c++) {
+cout << c << endl;
+}
