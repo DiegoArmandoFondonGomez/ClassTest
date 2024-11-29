@@ -11,3 +11,4 @@ int main () {
 for (int c = 1; c < n; c++) {
 cout << c << endl;
 }
+}
